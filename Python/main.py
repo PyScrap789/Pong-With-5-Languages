@@ -30,7 +30,7 @@ player_score = 0
 opponent_score = 0
 
 # Game Variables
-game_font = pygame.font.Font('BrunoAce-Regular.ttf', 200)
+game_font = pygame.font.Font('Python/BrunoAce-Regular.ttf', 200)
 
 delta = 0
 
